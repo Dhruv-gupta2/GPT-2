@@ -323,9 +323,6 @@ I would have to train for much longer, but if I do, some cool things I'd love to
 
 If I find an extra week somewhere, maybe I'll do this haha (but it would mostly be to flex as I again don't have much users and it's completely unnecessarily overengineered when I could just use an existing API haha)
 
-# Video demo
-
-In case you're interested, I also made a video demo where I walk through all the details
 
 https://github.com/user-attachments/assets/684ad73a-de67-4b66-8e8b-67bc4fe5b269
 
