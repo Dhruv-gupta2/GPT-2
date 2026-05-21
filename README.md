@@ -269,7 +269,6 @@ Torch.compile probably also does many more optimisations too.
 
 ![alt text](images/image-11.png)
 
-(Side note: Cool stuff - I definitely like working on stuff like this and did similar stuff for a [paper where I led the coding/implementation part and implemented a bloomfilter to minimize sparse matrix-matrix communication by 30%](https://drive.google.com/file/d/1qopGHeoYPdk5HrGPIBWW9fGWO3MgZnmH/view?usp=sharing))
 
 #### ML related optimizations:
 
